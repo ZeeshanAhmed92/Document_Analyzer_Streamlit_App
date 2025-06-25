@@ -1,0 +1,7 @@
+PyMuPDF
+Pillow
+pytesseract
+tqdm
+python-dotenv
+langchain
+python-docx
