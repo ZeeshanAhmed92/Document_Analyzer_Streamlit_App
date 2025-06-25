@@ -1,3 +1,5 @@
 document_analyzer
 .env
 iso_27001_docs
+*Zone.Identifier
+__pycache__
