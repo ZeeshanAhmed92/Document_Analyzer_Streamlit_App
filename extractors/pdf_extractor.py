@@ -1,5 +1,8 @@
 import pymupdf
 from utils.ocr import extract_text_from_image
+import fitz  # PyMuPDF
+import os
+
 
 def extract_text_from_pdf(file_path):
     doc = pymupdf.open(file_path)
@@ -14,3 +17,29 @@ def extract_text_from_pdf(file_path):
             ocr_text = extract_text_from_image(image_bytes)
             text += f"\n[Image {img_index + 1} OCR]:\n{ocr_text}\n"
     return text
+
+def extract_pdf_as_markdown(file_path):
+    doc = fitz.open(file_path)
+    markdown = ""
+
+    for page_num, page in enumerate(doc):
+        markdown += f"\n## Page {page_num + 1}\n"
+        markdown += page.get_text("text") + "\n"
+
+        for img_index, img in enumerate(page.get_images(full=True)):
+            xref = img[0]
+            base_image = doc.extract_image(xref)
+            image_bytes = base_image["image"]
+            ext = base_image["ext"]
+            image_filename = f"page{page_num+1}_img{img_index+1}.{ext}"
+
+            # Save image
+            with open(image_filename, "wb") as f:
+                f.write(image_bytes)
+
+            # OCR image text
+            ocr_text = extract_text_from_image(image_bytes)
+            markdown += f"\n**Image {img_index + 1} OCR:**\n```\n{ocr_text.strip()}\n```\n"
+            markdown += f"![Image {img_index + 1}]({image_filename})\n"
+
+    return markdown
