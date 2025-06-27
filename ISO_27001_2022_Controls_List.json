@@ -1,577 +1,98 @@
 [
-  {
-    "Section":"Clause 4",
-    "Control ID":"4.1",
-    "Control Title":"Understanding the organization and its context"
-  },
-  {
-    "Section":"Clause 4",
-    "Control ID":"4.2",
-    "Control Title":"Understanding the needs and expectations of interested parties"
-  },
-  {
-    "Section":"Clause 4",
-    "Control ID":"4.3",
-    "Control Title":"Determining the scope of the ISMS"
-  },
-  {
-    "Section":"Clause 4",
-    "Control ID":"4.4",
-    "Control Title":"Information security management system"
-  },
-  {
-    "Section":"Clause 5",
-    "Control ID":"5.1",
-    "Control Title":"Leadership and commitment"
-  },
-  {
-    "Section":"Clause 5",
-    "Control ID":"5.2",
-    "Control Title":"Information security policy"
-  },
-  {
-    "Section":"Clause 5",
-    "Control ID":"5.3",
-    "Control Title":"Organizational roles, responsibilities and authorities"
-  },
-  {
-    "Section":"Clause 6",
-    "Control ID":"6.1.1",
-    "Control Title":"Actions to address risks and opportunities - General"
-  },
-  {
-    "Section":"Clause 6",
-    "Control ID":"6.1.2",
-    "Control Title":"Information security risk assessment"
-  },
-  {
-    "Section":"Clause 6",
-    "Control ID":"6.1.3",
-    "Control Title":"Information security risk treatment"
-  },
-  {
-    "Section":"Clause 6",
-    "Control ID":"6.2",
-    "Control Title":"Information security objectives and planning to achieve them"
-  },
-  {
-    "Section":"Clause 7",
-    "Control ID":"7.1",
-    "Control Title":"Resources"
-  },
-  {
-    "Section":"Clause 7",
-    "Control ID":"7.2",
-    "Control Title":"Competence"
-  },
-  {
-    "Section":"Clause 7",
-    "Control ID":"7.3",
-    "Control Title":"Awareness"
-  },
-  {
-    "Section":"Clause 7",
-    "Control ID":"7.4",
-    "Control Title":"Communication"
-  },
-  {
-    "Section":"Clause 7",
-    "Control ID":"7.5",
-    "Control Title":"Documented information"
-  },
-  {
-    "Section":"Clause 8",
-    "Control ID":"8.1",
-    "Control Title":"Operational planning and control"
-  },
-  {
-    "Section":"Clause 9",
-    "Control ID":"9.1",
-    "Control Title":"Monitoring, measurement, analysis and evaluation"
-  },
-  {
-    "Section":"Clause 9",
-    "Control ID":"9.2",
-    "Control Title":"Internal audit"
-  },
-  {
-    "Section":"Clause 9",
-    "Control ID":"9.3",
-    "Control Title":"Management review"
-  },
-  {
-    "Section":"Clause 10",
-    "Control ID":"10.1",
-    "Control Title":"Nonconformity and corrective action"
-  },
-  {
-    "Section":"Clause 10",
-    "Control ID":"10.2",
-    "Control Title":"Continual improvement"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.1",
-    "Control Title":"Control title placeholder for A.5.1"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.2",
-    "Control Title":"Control title placeholder for A.5.2"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.3",
-    "Control Title":"Control title placeholder for A.5.3"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.4",
-    "Control Title":"Control title placeholder for A.5.4"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.5",
-    "Control Title":"Control title placeholder for A.5.5"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.6",
-    "Control Title":"Control title placeholder for A.5.6"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.7",
-    "Control Title":"Control title placeholder for A.5.7"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.8",
-    "Control Title":"Control title placeholder for A.5.8"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.9",
-    "Control Title":"Control title placeholder for A.5.9"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.10",
-    "Control Title":"Control title placeholder for A.5.10"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.11",
-    "Control Title":"Control title placeholder for A.5.11"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.12",
-    "Control Title":"Control title placeholder for A.5.12"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.13",
-    "Control Title":"Control title placeholder for A.5.13"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.14",
-    "Control Title":"Control title placeholder for A.5.14"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.15",
-    "Control Title":"Control title placeholder for A.5.15"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.16",
-    "Control Title":"Control title placeholder for A.5.16"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.17",
-    "Control Title":"Control title placeholder for A.5.17"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.18",
-    "Control Title":"Control title placeholder for A.5.18"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.19",
-    "Control Title":"Control title placeholder for A.5.19"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.20",
-    "Control Title":"Control title placeholder for A.5.20"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.21",
-    "Control Title":"Control title placeholder for A.5.21"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.22",
-    "Control Title":"Control title placeholder for A.5.22"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.23",
-    "Control Title":"Control title placeholder for A.5.23"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.24",
-    "Control Title":"Control title placeholder for A.5.24"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.25",
-    "Control Title":"Control title placeholder for A.5.25"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.26",
-    "Control Title":"Control title placeholder for A.5.26"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.27",
-    "Control Title":"Control title placeholder for A.5.27"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.28",
-    "Control Title":"Control title placeholder for A.5.28"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.29",
-    "Control Title":"Control title placeholder for A.5.29"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.30",
-    "Control Title":"Control title placeholder for A.5.30"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.31",
-    "Control Title":"Control title placeholder for A.5.31"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.32",
-    "Control Title":"Control title placeholder for A.5.32"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.33",
-    "Control Title":"Control title placeholder for A.5.33"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.34",
-    "Control Title":"Control title placeholder for A.5.34"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.35",
-    "Control Title":"Control title placeholder for A.5.35"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.36",
-    "Control Title":"Control title placeholder for A.5.36"
-  },
-  {
-    "Section":"A.5 (Organizational Controls)",
-    "Control ID":"A.5.37",
-    "Control Title":"Control title placeholder for A.5.37"
-  },
-  {
-    "Section":"A.6 (People Controls)",
-    "Control ID":"A.6.1",
-    "Control Title":"Control title placeholder for A.6.1"
-  },
-  {
-    "Section":"A.6 (People Controls)",
-    "Control ID":"A.6.2",
-    "Control Title":"Control title placeholder for A.6.2"
-  },
-  {
-    "Section":"A.6 (People Controls)",
-    "Control ID":"A.6.3",
-    "Control Title":"Control title placeholder for A.6.3"
-  },
-  {
-    "Section":"A.6 (People Controls)",
-    "Control ID":"A.6.4",
-    "Control Title":"Control title placeholder for A.6.4"
-  },
-  {
-    "Section":"A.6 (People Controls)",
-    "Control ID":"A.6.5",
-    "Control Title":"Control title placeholder for A.6.5"
-  },
-  {
-    "Section":"A.6 (People Controls)",
-    "Control ID":"A.6.6",
-    "Control Title":"Control title placeholder for A.6.6"
-  },
-  {
-    "Section":"A.6 (People Controls)",
-    "Control ID":"A.6.7",
-    "Control Title":"Control title placeholder for A.6.7"
-  },
-  {
-    "Section":"A.6 (People Controls)",
-    "Control ID":"A.6.8",
-    "Control Title":"Control title placeholder for A.6.8"
-  },
-  {
-    "Section":"A.7 (Physical Controls)",
-    "Control ID":"A.7.1",
-    "Control Title":"Control title placeholder for A.7.1"
-  },
-  {
-    "Section":"A.7 (Physical Controls)",
-    "Control ID":"A.7.2",
-    "Control Title":"Control title placeholder for A.7.2"
-  },
-  {
-    "Section":"A.7 (Physical Controls)",
-    "Control ID":"A.7.3",
-    "Control Title":"Control title placeholder for A.7.3"
-  },
-  {
-    "Section":"A.7 (Physical Controls)",
-    "Control ID":"A.7.4",
-    "Control Title":"Control title placeholder for A.7.4"
-  },
-  {
-    "Section":"A.7 (Physical Controls)",
-    "Control ID":"A.7.5",
-    "Control Title":"Control title placeholder for A.7.5"
-  },
-  {
-    "Section":"A.7 (Physical Controls)",
-    "Control ID":"A.7.6",
-    "Control Title":"Control title placeholder for A.7.6"
-  },
-  {
-    "Section":"A.7 (Physical Controls)",
-    "Control ID":"A.7.7",
-    "Control Title":"Control title placeholder for A.7.7"
-  },
-  {
-    "Section":"A.7 (Physical Controls)",
-    "Control ID":"A.7.8",
-    "Control Title":"Control title placeholder for A.7.8"
-  },
-  {
-    "Section":"A.7 (Physical Controls)",
-    "Control ID":"A.7.9",
-    "Control Title":"Control title placeholder for A.7.9"
-  },
-  {
-    "Section":"A.7 (Physical Controls)",
-    "Control ID":"A.7.10",
-    "Control Title":"Control title placeholder for A.7.10"
-  },
-  {
-    "Section":"A.7 (Physical Controls)",
-    "Control ID":"A.7.11",
-    "Control Title":"Control title placeholder for A.7.11"
-  },
-  {
-    "Section":"A.7 (Physical Controls)",
-    "Control ID":"A.7.12",
-    "Control Title":"Control title placeholder for A.7.12"
-  },
-  {
-    "Section":"A.7 (Physical Controls)",
-    "Control ID":"A.7.13",
-    "Control Title":"Control title placeholder for A.7.13"
-  },
-  {
-    "Section":"A.7 (Physical Controls)",
-    "Control ID":"A.7.14",
-    "Control Title":"Control title placeholder for A.7.14"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.1",
-    "Control Title":"Control title placeholder for A.8.1"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.2",
-    "Control Title":"Control title placeholder for A.8.2"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.3",
-    "Control Title":"Control title placeholder for A.8.3"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.4",
-    "Control Title":"Control title placeholder for A.8.4"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.5",
-    "Control Title":"Control title placeholder for A.8.5"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.6",
-    "Control Title":"Control title placeholder for A.8.6"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.7",
-    "Control Title":"Control title placeholder for A.8.7"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.8",
-    "Control Title":"Control title placeholder for A.8.8"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.9",
-    "Control Title":"Control title placeholder for A.8.9"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.10",
-    "Control Title":"Control title placeholder for A.8.10"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.11",
-    "Control Title":"Control title placeholder for A.8.11"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.12",
-    "Control Title":"Control title placeholder for A.8.12"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.13",
-    "Control Title":"Control title placeholder for A.8.13"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.14",
-    "Control Title":"Control title placeholder for A.8.14"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.15",
-    "Control Title":"Control title placeholder for A.8.15"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.16",
-    "Control Title":"Control title placeholder for A.8.16"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.17",
-    "Control Title":"Control title placeholder for A.8.17"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.18",
-    "Control Title":"Control title placeholder for A.8.18"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.19",
-    "Control Title":"Control title placeholder for A.8.19"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.20",
-    "Control Title":"Control title placeholder for A.8.20"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.21",
-    "Control Title":"Control title placeholder for A.8.21"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.22",
-    "Control Title":"Control title placeholder for A.8.22"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.23",
-    "Control Title":"Control title placeholder for A.8.23"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.24",
-    "Control Title":"Control title placeholder for A.8.24"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.25",
-    "Control Title":"Control title placeholder for A.8.25"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.26",
-    "Control Title":"Control title placeholder for A.8.26"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.27",
-    "Control Title":"Control title placeholder for A.8.27"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.28",
-    "Control Title":"Control title placeholder for A.8.28"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.29",
-    "Control Title":"Control title placeholder for A.8.29"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.30",
-    "Control Title":"Control title placeholder for A.8.30"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.31",
-    "Control Title":"Control title placeholder for A.8.31"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.32",
-    "Control Title":"Control title placeholder for A.8.32"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.33",
-    "Control Title":"Control title placeholder for A.8.33"
-  },
-  {
-    "Section":"A.8 (Technological Controls)",
-    "Control ID":"A.8.34",
-    "Control Title":"Control title placeholder for A.8.34"
-  }
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.1","Control Title":"Policies for information security"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.2","Control Title":"Information security roles and responsibilities"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.3","Control Title":"Segregation of duties"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.4","Control Title":"Management responsibilities"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.5","Control Title":"Contact with authorities"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.6","Control Title":"Contact with special interest groups"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.7","Control Title":"Threat intelligence"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.8","Control Title":"Information security in project management"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.9","Control Title":"Inventory of information and other associated assets"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.10","Control Title":"Acceptable use of information and other associated assets"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.11","Control Title":"Return of assets"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.12","Control Title":"Classification of information"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.13","Control Title":"Labelling of information"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.14","Control Title":"Information transfer"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.15","Control Title":"Access control"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.16","Control Title":"Identity management"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.17","Control Title":"Authentication information"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.18","Control Title":"Access rights"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.19","Control Title":"Information security in supplier relationships"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.20","Control Title":"Addressing information security within supplier agreements"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.21","Control Title":"Managing information security in the ICT supply chain"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.22","Control Title":"Monitoring, review and change management of supplier services"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.23","Control Title":"Information security for use of cloud services"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.24","Control Title":"Information security incident management planning and preparation"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.25","Control Title":"Assessment and decision on information security events"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.26","Control Title":"Response to information security incidents"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.27","Control Title":"Learning from information security incidents"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.28","Control Title":"Collection of evidence"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.29","Control Title":"Information security during disruption"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.30","Control Title":"ICT readiness for business continuity"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.31","Control Title":"Identification of legal, statutory, regulatory and contractual requirements"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.32","Control Title":"Intellectual property rights"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.33","Control Title":"Protection of records"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.34","Control Title":"Privacy and protection of PII"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.35","Control Title":"Independent review of information security"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.36","Control Title":"Compliance with policies and standards for information security"},
+  {"Section":"A.5 (Organisational Controls)","Control ID":"A.5.37","Control Title":"Documented operating procedures"},
+
+  {"Section":"A.6 (People Controls)","Control ID":"A.6.1","Control Title":"Screening"},
+  {"Section":"A.6 (People Controls)","Control ID":"A.6.2","Control Title":"Terms and conditions of employment"},
+  {"Section":"A.6 (People Controls)","Control ID":"A.6.3","Control Title":"Information security awareness, education and training"},
+  {"Section":"A.6 (People Controls)","Control ID":"A.6.4","Control Title":"Disciplinary process"},
+  {"Section":"A.6 (People Controls)","Control ID":"A.6.5","Control Title":"Responsibilities after termination or change of employment"},
+  {"Section":"A.6 (People Controls)","Control ID":"A.6.6","Control Title":"Confidentiality or non-disclosure agreements"},
+  {"Section":"A.6 (People Controls)","Control ID":"A.6.7","Control Title":"Remote working"},
+  {"Section":"A.6 (People Controls)","Control ID":"A.6.8","Control Title":"Information security event reporting"},
+
+  {"Section":"A.7 (Physical Controls)","Control ID":"A.7.1","Control Title":"Physical security perimeter"},
+  {"Section":"A.7 (Physical Controls)","Control ID":"A.7.2","Control Title":"Physical entry controls"},
+  {"Section":"A.7 (Physical Controls)","Control ID":"A.7.3","Control Title":"Securing offices, rooms and facilities"},
+  {"Section":"A.7 (Physical Controls)","Control ID":"A.7.4","Control Title":"Physical security monitoring"},
+  {"Section":"A.7 (Physical Controls)","Control ID":"A.7.5","Control Title":"Protecting against physical and environmental threats"},
+  {"Section":"A.7 (Physical Controls)","Control ID":"A.7.6","Control Title":"Working in secure areas"},
+  {"Section":"A.7 (Physical Controls)","Control ID":"A.7.7","Control Title":"Clear desk and clear screen"},
+  {"Section":"A.7 (Physical Controls)","Control ID":"A.7.8","Control Title":"Equipment siting and protection"},
+  {"Section":"A.7 (Physical Controls)","Control ID":"A.7.9","Control Title":"Security of assets off‑premises"},
+  {"Section":"A.7 (Physical Controls)","Control ID":"A.7.10","Control Title":"Storage media"},
+  {"Section":"A.7 (Physical Controls)","Control ID":"A.7.11","Control Title":"Supporting utilities"},
+  {"Section":"A.7 (Physical Controls)","Control ID":"A.7.12","Control Title":"Cabling security"},
+  {"Section":"A.7 (Physical Controls)","Control ID":"A.7.13","Control Title":"Equipment maintenance"},
+  {"Section":"A.7 (Physical Controls)","Control ID":"A.7.14","Control Title":"Secure disposal or re‑use of equipment"},
+
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.1","Control Title":"User endpoint devices"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.2","Control Title":"Privileged access rights"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.3","Control Title":"Information access restriction"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.4","Control Title":"Access to source code"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.5","Control Title":"Secure authentication"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.6","Control Title":"Capacity management"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.7","Control Title":"Protection against malware"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.8","Control Title":"Management of technical vulnerabilities"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.9","Control Title":"Configuration management"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.10","Control Title":"Information deletion"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.11","Control Title":"Data masking"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.12","Control Title":"Data leakage prevention"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.13","Control Title":"Information backup"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.14","Control Title":"Redundancy of information processing facilities"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.15","Control Title":"Logging"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.16","Control Title":"Monitoring activities"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.17","Control Title":"Clock synchronisation"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.18","Control Title":"Use of privileged utility programs"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.19","Control Title":"Installation of software on operational systems"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.20","Control Title":"Network security"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.21","Control Title":"Security of network services"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.22","Control Title":"Segregation of networks"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.23","Control Title":"Web filtering"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.24","Control Title":"Use of cryptography"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.25","Control Title":"Secure development life cycle"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.26","Control Title":"Application security requirements"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.27","Control Title":"Secure systems architecture and engineering principles"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.28","Control Title":"Secure coding"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.29","Control Title":"Security testing in development and acceptance"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.30","Control Title":"Outsourced development"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.31","Control Title":"Separation of development, test and production environments"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.32","Control Title":"Change management"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.33","Control Title":"Test information"},
+  {"Section":"A.8 (Technological Controls)","Control ID":"A.8.34","Control Title":"Protection of information systems during audit testing"}
 ]
