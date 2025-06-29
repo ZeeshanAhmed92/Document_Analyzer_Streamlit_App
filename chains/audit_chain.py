@@ -14,10 +14,12 @@ Only output JSON in the following format (do not include any explanation):
 
 [
   {{
+    "Clause" : "4,5"
     "Section": "4",
     "Control Id": "4.1"
     "Control Title": "Title of the Control ID",
     "Compliance": "✅",  // or "🟡" or "❌"
+    "Reference": "Reference to the context used to determine the gap."
     "Gaps Identified": "Describe gaps here or leave empty if none",
     "Recommended Action": "Specify actions to close the gap"
   }}
