@@ -3,35 +3,45 @@ from langchain.chains import LLMChain
 
 def analyze_module(llm):
     template = """
-You are a certified ISO/IEC 27001:2022 Lead Auditor.
+You are an ISO/IEC 27001:2022 Certified Lead Auditor.
 
-You must analyze the provided document for compliance with the following controls:
+Your task is to assess the provided document for compliance with the specified ISO/IEC 27001:2022 clauses and controls.
+
+Use the following controls list for assessment:
 {control_json}
 
 ---
 
+Analyze the following document for the above controls:
+\"\"\"{text}\"\"\"
+---
 Only output JSON in the following format (do not include any explanation):
 
 [
   {{
-    "Clause" : "4,5"
+    "Clause": "4.1",
     "Section": "4",
-    "Control Id": "4.1"
-    "Control Title": "Title of the Control ID",
-    "Compliance": "✅",  // or "🟡" or "❌"
-    "Reference": "Reference to the context used to determine the gap."
-    "Gaps Identified": "Describe gaps here or leave empty if none",
-    "Recommended Action": "Specify actions to close the gap"
+    "Control Id": "4.1",
+    "Control Title": "Understanding the organization and its context",
+    "Compliance": "✅",  // ✅ = Fully Compliant, 🟡 = Partially Compliant, ❌ = Not Compliant
+    "Policy": "Summary of policies, procedures, or controls mentioned in the document relevant to this control",
+    "Reference": "Quoted or paraphrased section(s) from the document used to assess compliance. Always mention file name.",
+    "Evidence": "Describe any documented, physical, or digital evidence indicating implementation",
+    "Gaps Identified": "Describe what is missing, unclear, or insufficient to meet the control. Leave blank if fully compliant.",
+    "Recommended Action": "Action needed to address the gap or strengthen compliance"
   }}
 ]
 
 Instructions:
-- For each clause/control, assess if it is addressed in the document.
-- If a clause/control is not mentioned in the text, mark it ❌ and recommend what should be added.
+* Check each control for explicit or implied coverage in the document.
+* If a control is not addressed, mark it as "Compliance": "❌" and recommend what must be added.
+* Use concise, clear language for all fields.
+* Use the original control titles from the standard.
+* Ensure the "Reference" contains relevant contextual support from the document.
+* Make the "Recommended Action" field actionable and relevant to the gap.
 
-Now analyze the following document:
 
-\"\"\"{text}\"\"\"
+
 """
 
     prompt = PromptTemplate(
