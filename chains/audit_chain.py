@@ -26,7 +26,6 @@ Only output JSON in the following format (do not include any explanation):
     "Compliance": "✅",  // ✅ = Fully Compliant, 🟡 = Partially Compliant, ❌ = Not Compliant
     "Policy": "Summary of policies, procedures, or controls mentioned in the document relevant to this control",
     "Reference": "Quoted or paraphrased section(s) from the document used to assess compliance. Always mention file name.",
-    "Evidence": "Describe any documented, physical, or digital evidence indicating implementation",
     "Gaps Identified": "Describe what is missing, unclear, or insufficient to meet the control. Leave blank if fully compliant.",
     "Recommended Action": "Action needed to address the gap or strengthen compliance"
   }}
