@@ -24,7 +24,8 @@ Respond only in the following JSON format:
     "Control Id": "4.1",
     "Policy Implementation Evidence": "evidence_context.pdf",
     "Exact Evidence Extract": "The organization conducted its 2023 context review...",
-    "Evidence Recommendation": "Include documentation of stakeholder input in next review"
+    "Evidence Recommendation": "Include documentation of stakeholder input in next review",
+    "Evidence" : "✅",  // ✅ = Evidence available, 🟡 = Evidence available but with Evidence Recommendations, ❌ = No Evidence available"
   }}
 ]
 
@@ -33,6 +34,7 @@ Instructions:
 - "Policy Implementation Evidence": specify the file name or source where evidence is found.
 - "Exact Evidence Extract": quote or paraphrase proof of implementation.
 - "Evidence Recommendation": mention how the evidence could be improved (e.g. more complete, clearer, updated).
+- "Evidence" : "if evidence available then mark ✅,  Evidence available but with Evidence Recommendations then mark 🟡 , if evidence not available then mark ❌"
 """
     prompt = PromptTemplate(
         input_variables=["text", "control_json"],

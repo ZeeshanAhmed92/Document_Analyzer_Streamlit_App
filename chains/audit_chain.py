@@ -23,7 +23,7 @@ Only output JSON in the following format (do not include any explanation):
     "Section": "4",
     "Control Id": "4.1",
     "Control Title": "Understanding the organization and its context",
-    "Compliance": "✅",  // ✅ = Fully Compliant, 🟡 = Partially Compliant, ❌ = Not Compliant
+    "Compliance": "✅",  // ✅ = Fully Compliant, 🟡 = Partially Compliant, ❌ = Not Compliant"
     "Policy": "Summary of policies, procedures, or controls mentioned in the document relevant to this control",
     "Reference": "Quoted or paraphrased section(s) from the document used to assess compliance. Always mention file name.",
     "Gaps Identified": "Describe what is missing, unclear, or insufficient to meet the control. Leave blank if fully compliant.",
