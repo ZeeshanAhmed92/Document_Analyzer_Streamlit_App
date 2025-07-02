@@ -24,8 +24,10 @@ Respond only in the following JSON format:
     "Control Id": "4.1",
     "Policy Implementation Evidence": "evidence_context.pdf",
     "Exact Evidence Extract": "The organization conducted its 2023 context review...",
-    "Evidence Recommendation": "Include documentation of stakeholder input in next review",
-    "Evidence" : "✅",  // ✅ = Evidence available, 🟡 = Evidence available but with Evidence Recommendations, ❌ = No Evidence available"
+    "Evidence Recommendation": "If applicable, include recommendation to improve evidence quality or implementation clarity. If none, return 'None'.",
+    "Evidence": "✅" // Use ✅ only if evidence is present AND no recommendation is needed.
+                  // Use 🟡 if evidence is present BUT improvement is recommended.
+                  // Use ❌ if no evidence is found.
   }}
 ]
 
@@ -33,8 +35,12 @@ Instructions:
 - Match controls from `control_json` with relevant parts of the evidence text.
 - "Policy Implementation Evidence": specify the file name or source where evidence is found.
 - "Exact Evidence Extract": quote or paraphrase proof of implementation.
-- "Evidence Recommendation": mention how the evidence could be improved (e.g. more complete, clearer, updated).
-- "Evidence" : "if evidence available then mark ✅,  Evidence available but with Evidence Recommendations then mark 🟡 , if evidence not available then mark ❌"
+- "Evidence Recommendation": Provide a recommendation only if there is room for improvement. If fully compliant, write "None".
+- "Evidence": Use:
+  - ✅ if evidence is complete and needs no recommendation,
+  - 🟡 if evidence is present but can be improved,
+  - ❌ if no evidence is found.
+- Just return the list of json no need for commentary, tags etc.
 """
     prompt = PromptTemplate(
         input_variables=["text", "control_json"],
