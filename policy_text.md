@@ -1870,7 +1870,7 @@ EU regulations
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE_" written in capital letters on a white background. The letter "R" is in green color, while the rest of the letters "EDUCATE_" are in dark blue. The underscore at the end is also dark blue. The style is clean and simple.
+The image shows the word "REDUCATE_" written in uppercase letters on a white background. The first letter "R" is in green, while the rest of the letters "EDUCATE_" are in dark blue. The underscore at the end suggests a blank space or an invitation to complete or continue the word.
 ```
 ![Image 1](image1.png)
 
@@ -1970,7 +1970,7 @@ Classification: Restricted​
 **Image 1 OCR:**
 ```
 **Image Description:**
-The image contains a logo or graphic with the text "e-WISE" in a stylized font within a maroon shape. Below that, there is an orange shape with the words "Good To Know." It appears to represent a brand or a segment called "e-WISE" with a tagline or description "Good To Know."
+The image contains a logo or a graphic with the text "e-WISE" in a maroon shape and "Good To Know" in an orange shape below it. It seems to be a branding or informational graphic, possibly related to education, knowledge sharing, or a digital platform.
 ```
 ![Image 1](page1_img1.png)
 

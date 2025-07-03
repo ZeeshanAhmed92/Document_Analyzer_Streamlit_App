@@ -76,6 +76,255 @@ IT staff are responsible for ensuring the secure storage and handling of decommi
 
 ---
 
+## File: Evidence controls are applied/2.4.7 Template checklist indienst.PNG.pdf
+
+
+## Page 1
+
+
+**Image 1 OCR:**
+```
+v Template (kopiéren)
+
+ 
+
+oO
+
+Status ©
+
+ 
+
+o
+
+      
+  
+   
+
+Welkomstkaart versturen
+
+Laptop regelen en installeren
+
+   
+
+   
+
+Datum @__ Creatie logboek
+
+Bestanden
+
+E-mail
+
+Tel
+
+ 
+
+ 
+
+(optioneel) vervoer regelen - NS kaart / auto
+
+ 
+
+Inwerkschema & planning maken
+
+& sep. 21, 2022 |
+
+ 
+
+ 
+
+ 
+
+Office account aanmaken
+
+ 
+
+Aanmelden voor de verschillende systemen
+
+ 
+
+ 
+
+ 
+
+Welkomstpakket klaarzetten
+
+ 
+
+Sleutel en tag klar leggen met overdracht document
+
+ 
+
+ 
+
+sep. 21,2022
+
+ 
+
+ 
+
+ 
+
+Uitleg eerste werkdag verzorgen
+
+‘pl SiBlolo|olo |e
+
+wit?
+
+ 
+
+ 
+
+Bruikleenovereenkomst tekenén
+
+sep.21,2022
+
+ 
+
+ 
+
+Profielfoto laten maken
+
+mrt.2
+
+ 
+
+ 
+
+(Optioneel) Visitekaartje regelen
+
+sep. 21,2022
+
+ 
+
+ 
+
+Toovoegen aan Vetjaardagstalender(s)
+
+mit.
+
+ 
+
+ 
+
+“Inwetien op de helpdesk
+
+sep. 21,2022
+
+ 
+
+ 
+
+~ inplannen gesprek terugblik op week 1 voor téamleider
+
+ 
+
+OJOJOJO/OJO/O|O;O;O,O/oO;o;o0;o
+
+Inplannen proeftijd gesprek bij de teamleider
+
+ 
+
+D/O] D| BD) © PS
+
+DOO O| PD GQ O Pp Cig O|o
+
+sep. 21,2022
+
+ 
+
+sep. 21,2022
+
+ 
+
+ 
+
+ 
+
++ Voeg Item toe
+
+Pe POF er er erewr
+
+@
+£
+
+**Image Description:**
+The image shows a checklist or task management table in Dutch related to onboarding or welcoming a new employee. 
+
+The table includes columns labeled:
+- Item (listing various onboarding tasks)
+- Persoon (person responsible or assigned)
+- Status 
+- Datum (date)
+- Creatie logboek (creation log with dates and profile pictures)
+- Bestanden (files)
+- E-mail
+- Telefoon
+
+Some items listed under "Item" are:
+- Welkomstkaart versturen (Send welcome card)
+- Aanmelden & dossier compleet in NMBR's (Register & complete dossier in NMBR's)
+- Laptop regelen en installeren (Arrange and install laptop)
+- (Optioneel) vervoer regelen - NS kaart / auto (Optional: arrange transport - train card / car)
+- Inwerkschema & planning maken (Make onboarding schedule & planning)
+- Office account aanmaken (Create office account)
+- Aanmelden voor de verschillende systemen (Register for the various systems)
+- Welkomstpakket klaarzetten (Prepare welcome package)
+- Sleutel en tag klaar leggen met overdracht document (Prepare key and tag with transfer document)
+- Uitleg eerste werkdag verzorgen (Provide explanation for the first workday)
+- Bruikleenovereenkomst tekenen (Sign loan agreement)
+- Profiel foto laten maken (Get profile photo taken)
+- (Optioneel) Visitekaartje regelen (Optional: arrange business card)
+- Toevoegen aan verjaardagskalender(s) (Add to birthday calendar
+```
+![Image 1](page1_img1.jpeg)
+
+
+---
+
+## File: Evidence controls are applied/2.4.8 Template checklist uitdienst.PNG.pdf
+
+
+## Page 1
+
+
+**Image 1 OCR:**
+```
+\ Template
+
+Oo item
+oO Inleveren sleutel en tag
+
+@ Afmelden Office 7
+
+fa ‘Afineiden verscifllen@Syauven
+
+OG ‘Computer deinstalleren -
+
+) =. Afmelden bijyMBR's
+
+ 
+
++ Voeg Item toe
+
+**Image Description:**
+This image shows a checklist table with the title "Template." The table contains columns labeled "Item," "Persoon," "Status," "Datum," and "Creatie logboek." Each row represents a task related to deregistration or uninstallation, presumably part of an offboarding or IT process. 
+
+The visible tasks in the "Item" column are:
+1. Inleveren sleutel en tag (Return key and tag)
+2. Afmelden Office (Sign out of Office)
+3. Afmelden verschillende systemen (Sign out of various systems)
+4. Computer deinstalleren (Uninstall computer)
+5. Afmelden bij NMBR's (Sign out from NMBR's)
+
+The "Persoon" (Person) and "Status" columns contain icons or indicators which are blurred or greyed out. The "Datum" (Date) column is redacted, and the "Creatie logboek" (Creation logbook) column shows a repeated person's photo and "mrt. 2," likely indicating a creation date or log reference.
+
+At the bottom, there is an option to add a new item with "+ Voeg item toe" (Add item). The table appears to be part of a workflow or project management tool, given the layout and icons.
+```
+![Image 1](page1_img1.jpeg)
+
+
+---
+
 ## File: Evidence controls are applied/ELEARN4_Restoring_Test_(staging).pdf
 
 
@@ -337,7 +586,7 @@ As per calendar invite
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE" written in capital letters with a blank underscore line after it. The letter "R" is in green, while the rest of the letters are in dark blue. The background is white.
+The image shows the word "REDUCATE_" with the letter "R" in green and the rest of the letters in dark blue. The word ends with an underscore. The text is displayed on a white background.
 ```
 ![Image 1](page1_img1.png)
 
@@ -390,7 +639,7 @@ Y
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE" with the letter "R" in green and the rest of the letters in dark blue. There is also an underscore "_" after the word. The letters are written in a bold, sans-serif font on a white background.
+The image shows the word "REDUCATE_" in capital letters on a white background. The letter "R" is in a green color, while the rest of the letters "EDUCATE_" are in dark blue. There is also an underscore character at the end of the word.
 ```
 ![Image 1](page2_img1.png)
 
@@ -425,7 +674,7 @@ DOCUMENTS RELEVANT TO MEETING​
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE_" with the letter "R" in green and the other letters and underscore in dark blue, all on a white background.
+This image displays the word "REDUCATE_" in uppercase letters on a white background. The first letter "R" is in green, while the rest of the letters and the underscore are in dark blue. The underscore at the end suggests something is incomplete or waiting to be filled in.
 ```
 ![Image 1](page3_img1.png)
 
@@ -452,7 +701,7 @@ EXISTING AGENDA ITEMS
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE" written in capital letters with a modern, clean font. The letter "R" is in green color while the rest of the letters are in dark blue. There is also an underscore ("_") after the letter "E" at the end of the word. The background is white.
+The image contains the word "REDUCATE" displayed in uppercase letters. The letter "R" is colored green, while the rest of the letters are dark blue or black. The word ends with an underscore (_) symbol. The background is white.
 ```
 ![Image 1](page4_img1.png)
 
@@ -490,7 +739,7 @@ shares a large amount of documents.
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE_" with the letter "R" in green and the rest of the letters "EDUCATE_" in dark blue or black. The underlying design suggests a focus on education or learning, possibly hinting at the idea of "re-educate" or a related concept. The underscore at the end might imply a continuation or an invitation to fill in the blank.
+The image contains the word "REDUCATE_" with the letter "R" in green and the rest of the letters in dark blue. The word appears to be a combination or play on the words "Reduce" and "Educate," ending with an underscore. The design is simple with a clean, modern font on a white background.
 ```
 ![Image 1](page5_img1.png)
 
@@ -522,7 +771,7 @@ Restore tests have been successfully done (Task)
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE_" in a modern, sans-serif font. The first letter "R" is in green color while the rest of the letters "EDUCATE_" are in dark blue. The word is centered on a white background. The underscore at the end suggests that it might be an incomplete word or a brand name.
+The image shows the word "REDUCATE_" with the first letter "R" in green and the rest of the letters in dark blue. The underscore at the end suggests it might be a prompt or an interactive element related to the word "REDUCATE."
 ```
 ![Image 1](page6_img1.png)
 
@@ -573,7 +822,7 @@ See table at the end of the document
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE_" written in capital letters. The letter "R" is in green color, and the rest of the letters are in dark blue. There is an underscore after the word. The background is white.
+The image shows the word "REDUCATE_" written in uppercase letters. The letter "R" is in green, while the rest of the letters and the underscore at the end are in navy blue. The background is white. The underscore at the end gives the impression of a text cursor, suggesting a word being typed or an incomplete phrase.
 ```
 ![Image 1](page7_img1.png)
 
@@ -625,7 +874,7 @@ O-2024-05: Scope documentation should be appropriately updated to
 REDUCATE-
 
 **Image Description:**
-The image contains the word "REDUCATE" written in uppercase letters on a white background. The letter "R" is in greenish-yellow color, while the rest of the letters are in dark blue. There is also an underscore character "_" at the end of the word.
+The image shows the word "REDUCATE_" written in uppercase letters. The letter "R" is in a green color, while the other letters are in dark blue or black. There is an underscore character "_" at the end of the word. The background is white.
 ```
 ![Image 1](page8_img1.png)
 
@@ -671,7 +920,7 @@ Added to Notion (Task)
 REDUCATE-
 
 **Image Description:**
-The image contains the word "REDUCATE_" with the letter "R" in green and the rest of the letters in dark blue. The word appears to have an underscore at the end, suggesting completion or continuation.
+The image shows the word "REDUCATE" in capital letters, with the letter "R" in green and the rest of the letters in dark blue. There is an underscore "_" after the last letter "E." The background is white.
 ```
 ![Image 1](page9_img1.png)
 
@@ -719,7 +968,7 @@ thus accepts it. Risk #2.8
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE_" with the letter "R" in green and the rest of the letters in dark blue, followed by an underscore. The style is clean and modern on a white background.
+The image shows the word "REDUCATE_" written in uppercase letters. The letter "R" is in green, while the rest of the letters and the underscore are in dark blue. The background is white.
 ```
 ![Image 1](page10_img1.png)
 
@@ -763,7 +1012,7 @@ INFORMATION SECURITY OBJECTIVES MEASURES
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE_" written in uppercase letters. The letter "R" is green, while the rest of the letters are dark blue. There is an underscore "_" at the end of the word, also in dark blue. The background is white.
+The image shows the word "REDUCATE_" with the letter "R" in green and the rest of the letters in dark blue, followed by an underscore. The overall style is clean and modern, with a white background.
 ```
 ![Image 1](page11_img1.png)
 
@@ -833,7 +1082,7 @@ performing well for all information systems.
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE" in large, bold letters. The first letter "R" is in green, while the rest of the letters are in dark blue. There is also an underscore "_" after the last letter "E". The background is plain white.
+The image shows the word "REDUCATE_" with the letter "R" in green and the rest of the letters and the underscore in dark blue. The background is white. The word appears to be styled in a modern, clean font. The underscore at the end suggests a prompt or something unfinished.
 ```
 ![Image 1](page12_img1.png)
 
@@ -897,7 +1146,7 @@ restore test has been successfully done
 REDUCATE-
 
 **Image Description:**
-The image contains the word "REDUCATE" in uppercase letters. The letter "R" is in green, while the rest of the letters are in dark blue. There is also an underscore character "_" at the end of the word. The background is white.
+The image contains the text "REDUCATE_" displayed in a simple, modern font. The letter "R" is colored in green, while the rest of the letters and the underscore are in dark blue or black. The background is plain white. This text could be part of a logo or brand name.
 ```
 ![Image 1](page13_img1.png)
 
@@ -962,7 +1211,7 @@ date. All reviews are recorded as being on
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE_" written in uppercase letters. The first letter "R" is in green, while the rest of the letters "EDUCATE_" are in dark blue. The design is simple with a clean white background.
+The image contains the word "REDUCATE" in capital letters with an underscore at the end. The letter "R" is colored green, while the rest of the letters are dark blue. The background is white.
 ```
 ![Image 1](page14_img1.png)
 
@@ -985,7 +1234,7 @@ to improve.
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE_" written in capital letters. The letter "R" is colored in green, while the rest of the letters and the underscore are in dark blue. The background is white.
+The image contains the word "REDUCATE_" written in uppercase letters. The letter "R" is in green color, while the rest of the letters "EDUCATE_" are in dark blue. The background is white. The underscore at the end suggests the possibility of continuation or input.
 ```
 ![Image 1](page15_img1.png)
 
@@ -1022,9 +1271,909 @@ Communication plan [Confidential]
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE_" written in a simple, sans-serif font. The letter "R" is in green, while the rest of the letters ("EDUCATE_") are in dark blue or black. The image has a plain white background. The underscore character at the end creates a sense of an unfinished word or an invitation to fill in the blank.
+The image shows the word "REDUCATE_" with the letter "R" in green and the rest of the letters in dark blue. There is an underscore after the final "E," suggesting a space to add more text or indicating a prompt for continuation. The background is white.
 ```
 ![Image 1](page16_img1.png)
+
+
+---
+
+## File: Evidence controls are applied/Kopie van BS02 E-Wise Wachtwoordbeleid [Internal].pdf
+
+
+## Page 1
+E-Wise Wachtwoordbeleid
+Wachtwoordbeleid Jumpcloud (algemeen)
+2
+Wachtwoordbeleid Google
+3
+Wachtwoordbeleid  Zoho
+4
+Welkomstbrief nieuwe gebruikers
+7
+Eenmalige inloggegevens
+7
+Windows
+7
+Websites van E-WISE
+7
+
+
+## Page 2
+Wachtwoordbeleid Jumpcloud (algemeen)
+Wachtwoord bij Jump Cloud aanpassen word gelijke bij G-suite google ook aangepast SSO.
+●
+12 tekens Minimaal.
+●
+Hoofdleter
+●
+Cijfer
+●
+5x Wachtwoordhistorie
+●
+Lockout na 10 ongeldige aanmelding.
+●
+bij inloggen User ID: invoeren
+
+
+**Image 1 OCR:**
+```
+COO elo User Security Settings
+
+Custom Password Settings
+ead
+
+eect Minimum Length
+
+12 characters
+
+ry Complexity
+
+Password must include a lowercase letter
+YN
+
+Password must include an uppercase letter
+sso
+
+Password must include a number
+© Password must include a special character
+
+Dre
+
+Deeekct ry
+
+**Image Description:**
+The image shows a user interface screen from JumpCloud for "User Security Settings." It focuses on the section "Custom Password Settings," where the user is setting password requirements.
+
+Details include:
+- Minimum Length: 12 characters
+- Complexity requirements with checkboxes:
+  - Password must include a lowercase letter (checked)
+  - Password must include an uppercase letter (checked)
+  - Password must include a number (checked)
+  - Password must include a special character (unchecked)
+
+The left sidebar shows navigation options under categories such as:
+- User Management (Users, User Groups)
+- User Authentication (LDAP, RADIUS, SSO)
+- Device Management (Devices, Device Groups, Configurations/Policies)
+```
+![Image 1](page2_img1.png)
+
+**Image 2 OCR:**
+```
+Originality
+
+Password may not contain username
+
+Password Aging
+
+Enforce password history for last 5 passwords
+Password expires after 180 days
+
+©) Early Reset: require password reset on login for 10
+
+©) Grace Period: require password reset on login for 10
+
+Lockout
+
+Lock account after 10 — failed attempts
+
+© Unlock account after 10 minutes
+
+days prior to password expiration
+
+days after password expiration
+
+**Image Description:**
+The image shows a set of password policy settings related to originality, password aging, and lockout rules:
+
+- Originality:
+  - "Password may not contain username" is checked.
+
+- Password Aging:
+  - "Enforce password history for last 5 passwords" is checked.
+  - "Password expires after 180 days" is checked.
+  - "Early Reset: require password reset on login for 10 days prior to password expiration" is unchecked.
+  - "Grace Period: require password reset on login for 10 days after password expiration" is unchecked.
+
+- Lockout:
+  - "Lock account after 10 failed attempts" is checked.
+  - "Unlock account after 10 minutes" is unchecked.
+```
+![Image 2](page2_img2.png)
+
+## Page 3
+Wachtwoordbeleid Google
+●
+Wachtwoord wordt overgenomen vanuit Jumpcloud.
+●
+Iedereen in e-wise heeft twee factor authentication.
+○
+○
+
+
+**Image 1 OCR:**
+```
+Showing settings for users in IT
+
+ 
+
+Security Settings
+2-step verification
+Organisational units A
+Authentication
+overaden
+al units
+Administratie
+Binnendienst
+
+Buitendienst
+Directie
+Geen-2FA,
+
+IT
+
+Marketing
+
+Groups A
+
+ 
+ 
+
+nal
+Learn more
+
+ 
+
+‘Add an extra layer of security to user accounts by asking users to verify their
+identity when they enter a usemame and password. Lea more
+
+Allow users to turn on 2-Step Verification
+
+‘New user enrolment period
+‘Allows new users some time to enrol before enforcement is applied
+
+1 day +
+
+Frequency
+
+Users can avoid repeated 2Step Verification on their trusted devices. Learn more
+
+Allow the user to trust the device
+
+Methods
+
+Select the method to enforce, Lean more
+@ay
+
+CO Any except verification codes via text, phone call
+O only security key
+
+**Image Description:**
+The image shows a "Security Settings" interface for managing 2-step verification settings for users in the "IT" organizational unit. 
+
+Key details visible are:
+
+- Organisational units listed on the left include: Administratie, Binnendienst, Buitendienst, Directie, Geen-2FA, IT (selected), Marketing.
+- Under "2-step verification":
+  - Authentication is overridden.
+  - There's a checkbox to allow users to turn on 2-Step Verification, which is checked.
+  - Enforcement options with "On" selected (other options are Off or On from a specified date).
+  - New user enrolment period set to 1 day.
+  - Frequency section with the option "Allow the user to trust the device" checked.
+  - Methods to enforce 2-Step Verification, with "Any" selected. Other method options are:
+    - Any except verification codes via text, phone call
+    - Only security key.
+
+This interface is used to configure how 2-step verification is applied to users within the IT organizational unit in the system.
+```
+![Image 1](page3_img1.png)
+
+**Image 2 OCR:**
+```
+Organisational units
+
+    
+
+janisational units
+
+ewise.de
+
++ ewisenl
+Administratie
+Binnendienst
+Buitendienst
+
+Directie
+
+Groups
+
+ustomi
+
+ 
+
+ 
+
+step verilication
+
+Authentication
+‘Overtidden
+
+ 
+
+Learn more
+
+‘Add an extra layer of security to user accounts by asking users to verify their
+identity when they enter a usemame and password. Lea more
+
+Allow users to turn on 2-Step Verification
+
+O onfrom Date 6
+New user enrolment period
+Allows new users some time to enrol before enforcement is applied
+‘week ¥
+Frequency
+
+Users can avoid repeated 2Step Verification on their trusted devices. Learn more
+
+Allow the user to trust the device
+
+Methods
+
+Select the method to enforce, Lean more
+@ay
+
+CO Any except verification codes via text, phone call
+O only security key
+
+**Image Description:**
+This image shows a settings interface for managing 2-step verification (2-step authentication) in an organizational context, likely from an admin console for user account security.
+
+On the left side, there is a navigation panel labeled "Organisational units," displaying a hierarchy with different units:
+- E-wise
+  - e-wise.de
+  - e-wise.nl (expanded)
+    - Administratie (selected)
+    - Binnendienst
+    - Buitendienst
+    - Directie
+
+There is also a "Groups" section below that allows customization of settings for a group within an organizational unit.
+
+On the right side, there are 2-step verification configuration options including:
+
+- A checkbox to allow users to turn on 2-Step Verification (checked).
+- Enforcement options:
+  - Off
+  - On (selected)
+  - On from [date]
+- New user enrolment period dropdown, currently set to "1 week."
+- Frequency section with a checkbox "Allow the user to trust the device" (checked).
+- Methods section where you select the method to enforce:
+  - Any (selected)
+  - Any except verification codes via text, phone call
+  - Only security key
+
+The interface provides additional "Learn more" links for further information on some options. Overall, it is a configuration screen for setting and enforcing multi-factor authentication policies for users in a specific organizational unit.
+```
+![Image 2](page3_img2.png)
+
+## Page 4
+○
+○
+
+
+**Image 1 OCR:**
+```
+All organisations
+
+© Users from all organisational units
+
+© Users from selected organisational units
+
+Search for organisational units
+
+Select muitiple
+
++ Ewise
+ewise.de
++ ewisen!
+Administratie
+Binnendienst
+Buitendienst
+Directie
+
+Geen2FA
+
+Marketing
+Medical
+Redactie
+
+Studio
+
+X_ Users | Showing users from Administratie
+
+ 
+
++ Adda filter
+
+‘Anja van Driel
+
+Karen van Dillen
+
+ 
+
+Marjolein van Agtmaal
+
+@ werrortosen
+
+ 
+
+‘Add new user Bulk update users
+
+Email
+
+anja@e-wisen!
+
+karen.van.dillen@e-wise.nl
+
+marjolein@ewise.ni
+
+mmirjam.hoogenboezem@e-
+
+status
+
+Active
+
+Active
+
+Active
+
+Active
+
+Download users
+
+More ¥
+
+Last signin
+
+6 days ago
+
+One day ago
+
+6 days ago
+
+One day ago
+
+Email usage
+
+27768
+
+1.6368
+
+14.09 GB
+
+8.4368
+
+2arepveriic
+Enrolled
+Enrolled
+Enrolled
+
+Enrolled
+
+**Image Description:**
+This image shows a user management interface, likely from an organization's administrative tool or email management system. 
+
+On the left side, there is a panel titled "All organisations" with options to filter users either from all organizational units or from selected organizational units. The selected option here is "Users from selected organisational units." Below that, there is a hierarchical list of organizational units under "E-wise," with subunits such as "e-wise.de" and "e-wise.nl." The "Administratie" unit under "e-wise.nl" is highlighted.
+
+On the right side, a list of users from the "Administratie" unit is displayed. The table contains columns for:
+- Name (with user icons or photos)
+- Email
+- Status (all are "Active")
+- Last sign-in (ranging from "6 days ago" to "One day ago")
+- Email usage (ranging from 1.63 GB to 14.09 GB)
+- 2-step verification status (all users are "Enrolled")
+
+There are also options at the top for adding a new user, bulk updating users, downloading users, and more actions.
+```
+![Image 1](page4_img1.png)
+
+**Image 2 OCR:**
+```
+All organisations
+
+© Users from all organisational units
+
+© Users from selected organisational units
+
+Search for organisational units
+
+Select muitiple
+
+> Ewise
+ewise.de
++ ewise.nl
+Administratie
+Binnendienst
+
+Buitendienst
+
+X__ Users | Showing users from IT
+
+ 
+
+(+b Adda filter
+
+‘Admin Back-up
+Coen de Koning
+Daan van Paassen
+Dirk van der Zee
+Edwin Eshuis
+Hasker Brouwer
+
+Iris Magnée
+
+Misja Op de Cou!
+Romain van Maanen
+Tigran Khatchadrijan
+Youri Koeman
+
+Stephan Csorba
+
+ 
+
+oo0oonudaooaoaooaoa
+
+ 
+
+‘Add newuser Bulk update users
+
+Email
+
+admingewise.nl
+
+coen de koning@e-wise ni
+
+daange-wise.n!
+
+ditk@e-wise.nl
+
+edwin.eshuis@e-wise.n!
+
+hasker brouwer@e-wise.n
+
+iris magnee@=-wise nl
+
+misja@e-wise.nl
+
+romain.van.maanen@e-wis.
+
+tigran khatchadrijan@e-wis.
+
+your koeman@e-wise nl
+
+stephan. csorba@ewise.nl
+
+Download users
+
+status
+
+Active
+
+Active
+
+Active
+
+Active
+
+Active
+
+Active
+
+Active
+
+Active
+
+Active
+
+Active
+
+Active
+
+Active
+
+More ¥
+
+Last signin
+
+A months ago
+
+Adays ago
+
+2 days ago
+
+S days ago
+
+One week ago
+
+2 days ago
+
+2 days ago
+
+6 days ago
+
+2 days ago
+
+One day ago
+
+One week ago
+
+6 days ago
+
+ 
+
+Email usage
+
+5.0868
+
+3.0668
+
+70768
+
+5.4368
+
+0.6668
+
+5268
+
+20768
+
+3.1168
+
+0.08 68
+
+1.8668
+
+0.0668
+
+01168
+
+2arepveriic
+Enrolled
+Enrolled
+Enrolled
+Enrolled
+Enrolled
+Enrolled
+Enrolled
+Enrolled
+Enrolled
+Enrolled
+Enrolled
+
+Enrolled
+
+**Image Description:**
+The image shows a user interface, likely from an admin panel or user management system for an organization. It displays a list of users filtered from the "IT" organizational unit under the domain "e-wise.nl." 
+
+On the left side, there's a navigation panel where organizational units are listed, with "IT" selected under "e-wise.nl." There are options to view users from all organizational units or selected ones, and the option to search for organizational units.
+
+The main section on the right lists users with columns for:
+- Name (e.g., Admin Back-up, Coen de Koning, Dirk van der Zee, etc.)
+- Email addresses associated with each user
+- Status (all are "Active")
+- Last sign-in time (e.g., "4 months ago," "4 days ago," "2 days ago")
+- Email usage in GB
+- 2-step verification status (all "Enrolled")
+
+There are actionable options at the top: Add new user, Bulk update users, Download users, and a More drop-down menu. Some users have profile pictures or initials displayed next to their names.
+```
+![Image 2](page4_img2.png)
+
+## Page 5
+Wachtwoordbeleid  Zoho
+Wordt niet gebruikt, gebruikers melden met Google aan
+Ingestelde settings voor alle gebruikers en apart IT met two factor authentication
+
+
+**Image 1 OCR:**
+```
+Standaardbeleid
+
+ST Wachtwoordbeleid
+Geavanceerde instellingen
+
+ 
+
+Informatie over beleid Wachtwoordbeleid Meervoudige verificatie Toegestane IP's Geavanceerde instellinge
+
+ 
+
+Wiiz
+Wachtwoordsterkte selecteren Sterk  Goed | Redelijk Es
+
+COMPLEXITEIT VAN WACHTWOORD,
+
+ingen van het beleid worden toegepast bij de eerst volgende aanmelding van gebruikers of bij het wijzigen van wachtwoord.
+
+ 
+
+Minimale lengte voor een wachtwoord 14 v
+
+Gemengd wachtwoord e@
+
+Enforce users to have both upper and lower case
+alphabets in their password.
+
+Minimum aantal speciale tekens 2 v
+Minimum aantal numerieke posities 2 v
+LEEFTID VAN WACHTWOORD
+
+Maximale leeftijd van wachtwoord 120 dagen v
+Gebruikers dwingen hun wachtwoord na een periode
+
+te veranderen.
+
+Weigering van eerder gebruikte wachtwoorden 8 v
+
+Gebruikers tijdens het wijzigen van wachtwoorden
+niet toestaan hun laatst gebruikte wachtwoord als hun
+nieuwe wachtwoord in te stellen.
+
+Wachtwoordbeleid verwijderen
+
+**Image Description:**
+This image shows a settings page for configuring a password policy in Dutch ("Standaardbeleid" means "Standard policy"). The selected tab is "Wachtwoordbeleid" which means "Password policy".
+
+Here are the key settings visible:
+
+- Password strength options: Sterk (Strong), Goed (Good), Redelijk (Reasonable), Aangepast (Custom) with the Custom option selected.
+- Password complexity:
+  - Minimum password length: 14 characters.
+  - Mixed case (upper and lower case alphabets) required: This is turned off.
+  - Minimum number of special characters: 2.
+  - Minimum number of numeric characters: 2.
+- Password age settings:
+  - Maximum password age: 120 days (users must change their password after this period).
+- Password history:
+  - Number of previously used passwords disallowed: 8 (users cannot reuse their last 8 passwords).
+
+At the bottom, there is a button to remove the password policy ("Wachtwoordbeleid verwijderen" means "Remove password policy").
+```
+![Image 1](page5_img1.png)
+
+## Page 6
+
+
+**Image 1 OCR:**
+```
+ICT
+
+Ic Wachtwoordbeleid
+MFA
+Geavanceerde instellingen
+
+Informatie over beleid Wachtwoordbeleid Meervoudige verificatie Toegestane IP's Geavanceerde instellingen
+
+Wijzigingen van het beleid worden toegepast bij de eerst volgende aanmelding van gebruikers of bij het wijzigen van wachtwoord.
+
+Wachtwoordsterkte selecteren Sterk  Goed | Redelijk Es
+
+COMPLEXITEIT VAN WACHTWOORD,
+
+Minimale lengte voor een wachtwoord 14 v
+
+Gemengd wachtwoord e@
+
+Enforce users to have both upper and lower case
+alphabets in their password.
+
+Minimum aantal speciale tekens 2 v
+
+ 
+
+Minimum aantal numerieke pos 2 v
+LEEFTID VAN WACHTWOORD
+
+Maximale leeftijd van wachtwoord 120 dagen v
+Gebruikers dwingen hun wachtwoord na een periode
+
+te veranderen.
+
+Weigering van eerder gebruikte wachtwoorden 8 v
+
+ 
+
+Gebruikers tijdens het wijzigen van wachtwoorden
+niet toestaan hun laatst gebruikte wachtwoord als hun
+nieuwe wachtwoord in te stellen.
+
+Wachtwoordbeleid verwij
+
+**Image Description:**
+This image shows a settings page for managing password policies in Dutch. The section is titled "Wachtwoordbeleid" (Password Policy) under "ICT."
+
+Key settings include:
+
+- Password strength selection with options: Sterk (Strong), Goed (Good), Redelijk (Reasonable), Aangepast (Custom), with "Aangepast" selected.
+  
+- Password complexity:
+  - Minimum password length set to 14 characters.
+  - Mixed case password enforcement toggle, which is currently off.
+  - Minimum special characters required: 2.
+  - Minimum numeric positions required: 2.
+  
+- Password age:
+  - Maximum password age: 120 days (after which users must change their password).
+  
+- Password reuse policy:
+  - Denial of previously used passwords up to 8 past passwords.
+
+There is a button at the bottom labeled "Wachtwoordbeleid verwijderen" (Remove password policy). 
+
+Tabs at the top indicate other sections like Information about policy, Multi-factor authentication, Allowed IPs, and Advanced settings.
+```
+![Image 1](page6_img1.png)
+
+## Page 7
+
+
+**Image 1 OCR:**
+```
+ICT
+
+Ic Wachtwoordbeleid
+MFA
+Geavanceerde instellingen
+
+Informatie over beleid Wachtwoordbeleid Meervoudige verificatie
+
+Wijzigingen aan het beleid worden toegepast bij de eerst volgende aanmelding van g¢
+
+MV] OneAuth
+{Y) Face ID/Touch ID
+M Pushmelding
+V Op tijd gebaseerde OTP
+| QR-code
+{¥| Google Authenticator
+M YubiKey
+lv) SMS
+
+MFA-levensduur 180 dagen v
+
+Nadat gebruikers zich hebben aangemeld bij een
+vertrouwde browser, worden ze gedurende de
+gekozen periode niet uitgedaagd met MFA.
+
+Codes voor back-up-herstel toestaan e@
+
+Gebruikers kunnen codes voor back-up-herstel
+genereren en gebruiken wanneer ze problemen
+hebben met aanmelden.
+
+MFA verwijderen
+
+**Image Description:**
+This image shows a settings page for multi-factor authentication (MFA) under an ICT section titled "Wachtwoordbeleid" (Password Policy). The language is Dutch.
+
+The main settings include various MFA verification methods, with checkboxes marked for:
+- OneAuth, including options for:
+  - Face ID/Touch ID
+  - Push Notification
+  - Time-based OTP (One-Time Password)
+  - QR-code
+- Google Authenticator
+- YubiKey
+- SMS
+
+The "MFA-levensduur" (MFA lifetime) is set to 180 days, meaning after users log in with a trusted browser, they will not be required to authenticate with MFA again for 180 days.
+
+There is an option to allow "Codes voor back-up-herstel toestaan" (codes for backup recovery), which is currently disabled.
+
+At the bottom, there is a button labeled "MFA verwijderen" (Remove MFA).
+```
+![Image 1](page7_img1.png)
+
+## Page 8
+
+
+**Image 1 OCR:**
+```
+ICT
+
+Ic Wachtwoordbeleid
+MFA
+Geavanceerde instellingen
+
+Informatie over beleid Wachtwoordbeleid Meervoudige verificatie
+
+BEHEER VAN WEBSESSIES
+
+Levensduur van sessies 15 dagen v
+
+Gebruikers worden na de gekozen periode
+automatisch afgemeld van hun account.
+
+Time-out voor niet-actieve sessie Geen limiet v
+
+Gebruikers worden automatisch afgemeld van hun
+account, als ze gedurende de gekozen periode inactief
+blijven.
+
+Gelijktijdige sessies Geenlimiet v
+
+Gebruikers krijgen alleen het gekozen aantal
+gelijktijdige actieve sessies.
+
+**Image Description:**
+The image shows a settings page in Dutch related to ICT, specifically focusing on password policy, MFA (multi-factor authentication), and advanced settings.
+
+The visible tab is titled "Meervoudige verificatie" (Multiple Verification).
+
+Under the section "BEHEER VAN WEBSESSIES" (Management of Web Sessions), the following settings are visible:
+
+1. "Levensduur van sessies" (Duration of sessions) with a selected value of "15 dagen" (15 days).
+   - Description: Users are automatically logged out of their account after the chosen period.
+
+2. "Time-out voor niet-actieve sessie" (Timeout for inactive session) with a selected value of "Geen limiet" (No limit).
+   - Description: Users are automatically logged out if they remain inactive for the chosen period.
+
+3. "Gelijktijdige sessies" (Simultaneous sessions) with a selected value of "Geen limiet" (No limit).
+   - Description: Users get only the chosen number of simultaneous active sessions.
+
+The page seems to allow configuration of session security and management settings for user accounts.
+```
+![Image 1](page8_img1.png)
+
+## Page 9
+Welkomstbrief nieuwe gebruikers
+Eenmalige inloggegevens
+Gebruikersnaam Windows: rian.senden
+Gebruikersnaam e-mail/websites: rian.senden@e-wise.nl
+Tijdelijk wachtwoord: Welkom bij e-wise2020
+Windows
+Bij het inloggen in Windows wordt gevraagd om een nieuw wachtwoord. Deze mag je zelf kiezen
+maar moet wel aan een aantal voorwaarden voldoen:
+Om een voldoende sterk wachtwoord te krijgen zal de lengte minstens 12 tekens moeten zijn.
+Om dit goed te kunnen onthouden raad ik aan om twee of meer simpel te onthouden woorden te gebruiken (bijv. “zomer
+strand vakantie”, maar “zomer strand” heeft al voldoende lengte en is sterk genoeg).
+Extra wachtwoordtips:
+●
+Naast spaties kun je bijv. ook underscores (_) tussen de woorden gebruiken (zomer_strand_vakantie)
+●
+Gebruik van Hoofdletters (Zomer Strand Vakantie)
+●
+Om het nog sterker te maken kun je een speciaal teken toevoegen (Zomer Strand_Vakantie!)
+Elke 6 maanden zal je een melding krijgen om hem weer te wijzigen. Een vorig wachtwoord mag niet opnieuw
+worden gebruikt. Het Windows wachtwoord is ook gekoppeld aan de mail. Het mail wachtwoord veranderd dus
+automatisch mee maar de websites (nog) niet.
+Websites van E-WISE
+Je hebt een eenmalige login link in de mail gekregen van ons Single Sign-on system equbelogin.nl.
+Ook hier moet je een nieuw wachtwoord instellen (mag overeenkomen met het Windows
+wachtwoord). Hiermee kan je vervolgens inloggen op alle nascholingssites.
+
 
 
 ---
@@ -1137,13 +2286,13 @@ bestanden, fysieke documenten, vertrouwelijke klantgegevens, interne rapportages
 in uw bezit heeft, dan wel op enigerlei wijze heeft gekopieerd, opgeslagen of gedeeld met derden.
 
 **Image Description:**
-The text in the image is in Dutch and reads:
+The image contains Dutch text that reads:
 
 "Tot slot wijzen wij u er nadrukkelijk op dat u met ondertekening van de vaststellingsovereenkomst expliciet verklaart dat u geen enkel bedrijfseigendom — waaronder, maar niet beperkt tot, digitale bestanden, fysieke documenten, vertrouwelijke klantgegevens, interne rapportages en e-mails — meer in uw bezit heeft, dan wel op enigerlei wijze heeft gekopieerd, opgeslagen of gedeeld met derden."
 
-This translates to English as:
+In English, this roughly translates to:
 
-"Finally, we explicitly point out that by signing the settlement agreement, you explicitly declare that you no longer have in your possession any company property — including, but not limited to, digital files, physical documents, confidential customer data, internal reports, and emails — nor have you copied, stored, or shared these in any way with third parties."
+"Finally, we explicitly point out that by signing the settlement agreement you explicitly declare that you no longer have any company property in your possession — including, but not limited to, digital files, physical documents, confidential customer data, internal reports, and emails — nor have you copied, stored, or shared them with third parties in any way."
 ```
 ![Image 1](page1_img1.png)
 
@@ -1239,7 +2388,7 @@ Classiﬁcation: Conﬁdential
 **Image 1 OCR:**
 ```
 **Image Description:**
-This image contains an abstract network or connection pattern with nodes and lines. The nodes are small dots, and they are connected by thin lines. The connections form a web-like structure primarily concentrated on the right side of the image, while the left side remains mostly blank with fewer connections. The overall style is minimalistic and geometric, typically used for visualizations related to technology, networks, or data connections. The background is white, and the lines and nodes are in dark and light shades of gray or black.
+This image shows a network of interconnected nodes and lines arranged in a web-like pattern. The nodes are represented by dark dots, and they are connected by thin lines, forming a geometric, abstract structure against a white background. The design appears to represent a digital or technological network, such as a neural network, data connections, or a molecular structure. The pattern is mostly concentrated on the right side and bottom left of the image, leaving the central and upper left areas mostly empty.
 ```
 ![Image 1](page1_img1.jpeg)
 
@@ -1248,7 +2397,7 @@ This image contains an abstract network or connection pattern with nodes and lin
 REDUCATE-_
 
 **Image Description:**
-The image shows the word "REDUCATE_" with the first two letters "R" and "E" in green color, while the rest of the letters "DUCATE_" are in dark blue or black on a black background.
+The image shows the word "REDUCATE_" in uppercase letters on a black background. The letter "R" is in green, while the rest of the letters ("EDUCATE_") are in dark blue or black. The underscore at the end suggests an incomplete word or a prompt for continuation.
 ```
 ![Image 2](page1_img2.jpeg)
 
@@ -1263,7 +2412,7 @@ reproduced in whole or in part, nor passed to any third party.
 **Image 1 OCR:**
 ```
 **Image Description:**
-The image displays a black background with a network of interconnected lines and dots scattered around the right and bottom edges, creating an abstract, geometric pattern. The lines and dots are primarily white, with some lines and dots appearing in a dark blue shade. The overall design gives an impression of a digital or technological theme, resembling a constellation or a molecular structure. The center and left portion of the image is mostly empty black space.
+The image shows a network of connected points on a black background. The points are small circles, and they are connected by thin lines, forming various geometric shapes and patterns resembling a web or a graph. The colors of the points and lines are mainly white and shades of blue. The network is more concentrated on the right side of the image, with some sparse connections extending toward the left.
 ```
 ![Image 1](page2_img1.jpeg)
 
@@ -1272,7 +2421,7 @@ The image displays a black background with a network of interconnected lines and
 REDUCATE_
 
 **Image Description:**
-The image displays the word "REDUCATE_" in uppercase letters on a black background. The letter "R" is highlighted in green, while the rest of the letters ("EDUCATE_") are in dark blue or black.
+The image shows the word "REDUCATE_" in uppercase letters. The first letter "R" is in a greenish-yellow color, while the rest of the letters are in dark blue or black. The word ends with an underscore.
 ```
 ![Image 2](page2_img2.jpeg)
 
@@ -1305,7 +2454,7 @@ Classiﬁcation: Conﬁdential
 REDUCATE_
 
 **Image Description:**
-The image shows the word "REDUCATE_" written in capital letters with the first letter "R" in green and the rest of the letters in dark blue. The word is followed by an underscore symbol "_".
+The image shows the word "REDUCATE_" with the letters displayed in different colors: the letter "R" is in a greenish-yellow color, and the rest of the letters are in dark blue, with an underscore at the end.
 ```
 ![Image 1](page3_img1.jpeg)
 
@@ -1340,14 +2489,14 @@ Classiﬁcation: Conﬁdential
 REDUCATE_
 
 **Image Description:**
-The image shows the word "REDUCATE_" in uppercase letters. The letter "R" is in green, while the rest of the letters "EDUCATE_" are in dark blue or black.
+The image contains the text "REDUCATE_" written in capital letters. The first letter "R" is in a greenish color, while the rest of the letters and the underscore are in dark blue or black. The background is a light beige color.
 ```
 ![Image 1](page4_img1.jpeg)
 
 **Image 2 OCR:**
 ```
 **Image Description:**
-The image shows a green shield with a silver padlock symbol in the center. The padlock is closed, representing security or protection. This kind of image is commonly used to symbolize safety, security, privacy, or protection concepts, especially in digital contexts like cybersecurity.
+This image depicts a green shield with a silver or gray padlock symbol in the center. The shield likely represents protection or security, and the padlock reinforces the idea of safety, privacy, or secure access. This type of imagery is commonly used in contexts related to cybersecurity, data protection, or secure transactions.
 ```
 ![Image 2](page4_img2.jpeg)
 
@@ -1374,7 +2523,7 @@ Classiﬁcation: Conﬁdential
 REDUCATE_
 
 **Image Description:**
-The image contains the word "REEDUCATE_" in a stylized font with the letter "R" in green color and the rest of the letters in dark blue or black. The underscore at the end suggests a prompt or a continued action.
+The image shows the word "REDUCATE_" with the letter "R" highlighted in green, while the rest of the letters are in blue. The word appears on a black background.
 ```
 ![Image 1](page5_img1.jpeg)
 
@@ -1396,7 +2545,7 @@ Added classification
 REDUCATE_
 
 **Image Description:**
-The image contains the word "REDUCATE_" in uppercase letters, with the "R" in green and the rest of the letters in blue or dark color against a black background.
+The image contains the word "REDUCATE_" with the letter "R" in green or yellowish-green color, while the rest of the letters "EDUCATE_" are in dark blue or black. The font is simple and sans-serif. The underscore at the end suggests a prompt or input field.
 ```
 ![Image 1](page6_img1.jpeg)
 
@@ -1482,7 +2631,7 @@ assessment
 REDUCATE-
 
 **Image Description:**
-The image shows the word "REDUCATE_" in capital letters on a white background. The letter "R" is in green, while the other letters and the underscore are in dark blue.
+The image contains the word "REDUCATE_" with the letter "R" in green and the rest of the letters along with an underscore in dark blue. The text is on a white background.
 ```
 ![Image 1](page1_img1.png)
 
@@ -1944,18 +3093,16 @@ information security risk from suppliers
 REDUCATE_ 4
 
 **Image Description:**
-The image is a slide titled "1.1 Security goals > KPI’s". It outlines various security goals and their corresponding Key Performance Indicators (KPIs). 
-
-The goals and KPIs are as follows:
+The image is a slide titled "1.1 Security goals > KPI's." It outlines various security goals along with their corresponding Key Performance Indicators (KPIs). The goals and KPIs listed are:
 
 1. Risk reduction: by limiting the impact of information security incidents
    - MTTD* < 5 minutes
-   - MTTR** < 4 hours
+   - MTTR** < 4 hours 
 
 2. Improving customer satisfaction: by protecting customers' personal information
    - Data breach rate < 0.1%
 
-3. Ensure the confidentiality, integrity and availability of data and services of the company
+3. Ensure the confidentiality, integrity, and availability of data and services of the company
    - System Uptime > 99.5%
    - Data incidents resolved < 24 hours
 
@@ -1972,11 +3119,11 @@ The goals and KPIs are as follows:
 7. Effectively manage third parties to reduce potential information security risk from suppliers
    - Vendor Risk Assessment Results - min half yearly
 
-At the bottom, there is a note explaining:
-* MTTD = Mean time to detect
-* MTTR = Mean time to repair
+At the bottom, it is noted:
+* Mean time to detect 
+** Mean time to repair
 
-The slide is branded with "REDUCATE_" at the bottom left and has the page number 4 at the bottom right.
+The slide has the branding "REDUCATE_" at the bottom left and the page number "4" at the bottom right.
 ```
 ![Image 1](page9_img1.png)
 
