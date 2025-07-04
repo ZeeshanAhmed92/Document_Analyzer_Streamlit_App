@@ -37,10 +37,6 @@ def extract_pdf_as_markdown(file_path):
             ext = base_image["ext"]
             image_filename = f"page{page_num+1}_img{img_index+1}.{ext}"
 
-            # Save image
-            with open(image_filename, "wb") as f:
-                f.write(image_bytes)
-
             # OCR image text
             ocr_text = extract_text_from_image(image_bytes)
             markdown += f"\n**Image {img_index + 1} OCR:**\n```\n{ocr_text.strip()}\n```\n"
@@ -67,9 +63,6 @@ def extract_docx_as_markdown(file_path):
             image_data = rel_obj.target_part.blob
             ext = rel_obj.target_ref.split(".")[-1]
             image_filename = f"image{image_count}.{ext}"
-
-            with open(image_filename, "wb") as f:
-                f.write(image_data)
 
             # OCR the image
             ocr_text = extract_text_from_image(image_data)
