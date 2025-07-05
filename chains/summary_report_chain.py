@@ -4,8 +4,8 @@ from langchain.chains import LLMChain
 template = """
 You are an ISO/IEC 27001:2022 implementation expert.
 You will be given a template for a sample report in RTF. Use that report to create a similar report by summarizing the ISO assessment in HTML format.
-Company name is:
-["Vlectra"]
+Company names and contributers  are:
+\"\"\"{companies}\"\"\"
 
 Here is the report template:
 \"\"\"{report}\"\"\"
@@ -205,7 +205,7 @@ HTML TEMPLATE ENDS HERE
 """
 
 prompt = PromptTemplate(
-    input_variables=["report", "assessment"],
+    input_variables=["report", "assessment","companies"],
     template=template
 )
 

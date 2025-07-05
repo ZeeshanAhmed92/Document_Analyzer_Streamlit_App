@@ -170,13 +170,14 @@ if st.button("🚀 Analyze", type="primary", disabled=not can_analyze):
 
         doc = Document("./data/ISO 27001 - Valecta - Template - Report.docx")
         docx_text = "\n".join([para.text for para in doc.paragraphs if para.text.strip() != ""])
-
+        metadata = f"Companies: {', '.join(selected_companies)}Contributors:</b> {', '.join(selected_contributors)}"
         summary_html = summary_chain.run(
             report=docx_text,
-            assessment=merged_df.to_json(orient="records", indent=2)
+            assessment=merged_df.to_json(orient="records", indent=2),
+            companies = metadata
         )
 
-        metadata = f"<b>Companies:</b> {', '.join(selected_companies)}<br><b>Contributors:</b> {', '.join(selected_contributors)}<br><br>"
+
         with open(os.path.join(output_folder, "summary.html"), "w", encoding="utf-8") as f:
             f.write(metadata + summary_html)
 
