@@ -4,7 +4,7 @@ from langchain.chains import LLMChain
 template = """
 You are an ISO/IEC 27001:2022 implementation expert.
 You will be given a template for a sample report in RTF. Use that report to create a similar report by summarizing the ISO assessment in HTML format.
-Company names and contributers  are:
+These are the company names and contributers, Use these to replace the placeholders:
 \"\"\"{companies}\"\"\"
 
 Here is the report template:
@@ -194,7 +194,8 @@ HTML TEMPLATE ENDS HERE
 2.2.4 Opportunities for improvement
 
 **Instructions**
-- Use the provided Company name to fill the placeholders in the template. 
+- Use the provided Company Names to fill the placeholders of the [company-name] and  [ - name-1 ..etc].
+- Use the provided company name as the target comapany of audit and Vlectra as second company.
 - Follow all class names and styling conventions exactly.
 - Place new section content within `<section class="section">`.
 - Use consistent typography hierarchy: `<h1>` for title, `<h2>` for main section, `<h3>` for sub-sections, etc.

@@ -49,7 +49,7 @@ def extract_text_from_image(image_path_or_bytes):
     image.save(buffered, format="JPEG")
     b64 = base64.b64encode(buffered.getvalue()).decode()
     data_uri = f"data:image/jpeg;base64,{b64}"
-
+    image_description = ""
     # Step 3: LLM-based image description
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
