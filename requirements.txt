@@ -9,3 +9,6 @@ openai
 streamlit
 langchain_community
 openpyxl
+nest-asyncio
+weasyprint
+beautifulsoup4

@@ -13,6 +13,10 @@ Here is the report template:
 And here is the ISO assessment:
 \"\"\"{assessment}\"\"\"
 
+Following is the date for today. Replace this date in placeholder:
+\"\"\"{date}\"\"\"
+
+
 You are to generate an HTML report using the following exact style and structure. Maintain all class names, spacing, colors, font usage, and component layout as shown below. Use this HTML template as a reference for any further content or sections.
 
 --------------------------
@@ -206,7 +210,7 @@ HTML TEMPLATE ENDS HERE
 """
 
 prompt = PromptTemplate(
-    input_variables=["report", "assessment","companies"],
+    input_variables=["report", "assessment","companies","date"],
     template=template
 )
 

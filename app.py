@@ -20,6 +20,7 @@ from bs4 import BeautifulSoup
 import os
 from docx import Document
 from dotenv import load_dotenv
+from datetime import datetime
 
 load_dotenv()
 nest_asyncio.apply()
@@ -222,12 +223,15 @@ if st.button("🚀 Analyze", type="primary", disabled=not can_analyze):
             for company in selected_companies
         ]
         print(metadata)
+        from datetime import datetime
+
         summary_html = summary_chain.run(
             report=docx_text,
             assessment=merged_df.to_json(orient="records", indent=2),
-            companies=metadata_json
+            companies=metadata_json,
+            date=datetime.today().strftime("%Y-%m-%d")  # Format: YYYY-MM-DD
         )
-
+        
         # Assuming `result` contains your HTML string
         soup = BeautifulSoup(summary_html, 'html.parser')
         # Get absolute file path and convert to file URL
@@ -243,7 +247,7 @@ if st.button("🚀 Analyze", type="primary", disabled=not can_analyze):
         )
         soup.body.insert(0, img_tag)
         # Generate PDF
-        HTML(string=str(soup)).write_pdf("./outputs/output.pdf")
+        HTML(string=str(soup)).write_pdf("./outputs/summary.pdf")
 
 
 
