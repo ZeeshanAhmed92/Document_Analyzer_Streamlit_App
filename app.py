@@ -21,12 +21,59 @@ import os
 from docx import Document
 from dotenv import load_dotenv
 from datetime import datetime
+import base64
 
 load_dotenv()
 nest_asyncio.apply()
 
-st.set_page_config(page_title="LLM Audit App", layout="wide")
-st.title("📄 LLM Audit App")
+st.set_page_config(page_title="Valecta AI Auditor", layout="wide")
+
+# Function to encode image to base64
+def get_base64_image(image_path):
+    with open(image_path, "rb") as img_file:
+        encoded = base64.b64encode(img_file.read()).decode()
+    return encoded
+
+# Encode your local background image
+img_path = "./data/valecta.jpg"  # Replace with your local image path
+img_base64 = get_base64_image(img_path)
+
+# Inject custom CSS
+st.markdown(
+    f"""
+    <style>
+    .stApp {{
+        background-image: url("data:image/jpeg;base64,{img_base64}");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }}
+
+    .stApp::before {{
+        content: "";
+        position: fixed;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background: rgba(0, 0, 0, 0.4);
+        z-index: -1;
+    }}
+
+    h1 {{
+        text-align: center;
+        color: white;
+        font-size: 2.5em;
+    }}
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+# Center-aligned custom title using HTML
+st.markdown(
+    """
+    <h1 style='text-align: center; font-size: 2.5em; color: #42eff5'>📄 Valecta AI - The Auditor</h1>
+    """,
+    unsafe_allow_html=True
+)
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
@@ -62,6 +109,35 @@ if "companies" not in st.session_state:
     st.session_state.companies = {}
 
 # --- Sidebar Upload + File Management ---
+st.markdown(
+    """
+    <style>
+    /* Fully transparent sidebar background */
+    section[data-testid="stSidebar"] {
+        background-color: transparent !important;
+        box-shadow: none !important;
+    }
+
+    section[data-testid="stSidebar"] > div:first-child {
+        background-color: transparent !important;
+    }
+
+    /* Set sidebar text color to #42eff5 */
+    section[data-testid="stSidebar"] * {
+        color: #42eff5 !important;
+    }
+
+    /* Optional: Customize checkbox and radio colors */
+    input[type="checkbox"], input[type="radio"] {
+        accent-color: #42eff5 !important;
+    }
+
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+
 st.sidebar.header("📂 Upload Files")
 
 uploaded_files = st.sidebar.file_uploader(
@@ -101,7 +177,35 @@ st.session_state.policy_files = [
 ]
 
 # --- Company Info ---
-st.subheader("🏢 Company Information")
+st.markdown(
+    "<h3 style='color: #42eff5;'>🏢 Company Information</h3>",
+    unsafe_allow_html=True
+)
+
+st.markdown("""
+<style>
+/* Corrected selector for the main radio group label (e.g., 'Company Mode') */
+div[data-testid="stRadio"] > div:first-child {
+    color: #42eff5 !important;
+    font-weight: 700 !important;
+    font-size: 1.2rem !important;
+}
+
+/* Radio option labels */
+div[data-testid="stRadio"] label {
+    color: #42eff5 !important;
+    font-weight: 500 !important;
+    font-size: 1.05rem !important;
+}
+
+/* Radio button accent color */
+div[data-testid="stRadio"] input[type="radio"] {
+    accent-color: #42eff5 !important;
+}
+</style>
+""", unsafe_allow_html=True)
+
+
 
 company_names = list(st.session_state.companies.keys())
 company_mode = st.radio("Company Mode", ["Select Existing", "Create New"], horizontal=True)
@@ -148,7 +252,10 @@ if selected_companies:
             selected_contributors.append(new_contributor)
 
 
-st.subheader("🗑️ Manage Companies & Contributors")
+st.markdown(
+    "<h3 style='color: #42eff5;'>Manage Companies & Contributors</h3>",
+    unsafe_allow_html=True
+)
 
 # Delete companies
 company_to_delete = st.selectbox("Delete a company:", company_names, key="delete_company")
@@ -185,7 +292,9 @@ if not can_analyze:
 # --- Analysis Button ---
 if st.button("🚀 Analyze", type="primary", disabled=not can_analyze):
     with st.spinner("📄 Extracting documents and analyzing..."):
+        status_box = st.empty() 
         # Extract policy/evidence text
+        status_box.markdown("📄 Extracting Files, Step 1/4...")
         policy_text = read_folder_and_join_markdown(uploaded_folder, st.session_state.policy_files)
         evidence_text = read_folder_and_join_markdown_exclude(uploaded_folder, exclude_file_list=st.session_state.policy_files)
 
@@ -193,6 +302,7 @@ if st.button("🚀 Analyze", type="primary", disabled=not can_analyze):
             asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
         try:
+            status_box.markdown("📄 Extracting Policies, Step 2/4...")
             final_results = asyncio.run(run_all_clauses(policy_text, llm, clauses))
         except RuntimeError:
             loop = asyncio.get_event_loop()
@@ -202,7 +312,7 @@ if st.button("🚀 Analyze", type="primary", disabled=not can_analyze):
         filtered_json = json.dumps(
             audit_df[["Control Id", "Clause", "Control Title", "Policy"]].to_dict(orient="records"), indent=2
         )
-
+        status_box.markdown("📄 Extracting Evidence, Step 3/4...")
         evidence_result = evidence_chain.run(text=evidence_text, control_json=filtered_json)
         evidence_df = pd.DataFrame(load_json_report(evidence_result))
         print(evidence_df)
@@ -224,14 +334,14 @@ if st.button("🚀 Analyze", type="primary", disabled=not can_analyze):
         ]
         print(metadata)
         from datetime import datetime
-
+        status_box.markdown("📄 Generating Report, Step 4/4...")
         summary_html = summary_chain.run(
             report=docx_text,
             assessment=merged_df.to_json(orient="records", indent=2),
             companies=metadata_json,
             date=datetime.today().strftime("%Y-%m-%d")  # Format: YYYY-MM-DD
         )
-        
+
         # Assuming `result` contains your HTML string
         soup = BeautifulSoup(summary_html, 'html.parser')
         # Get absolute file path and convert to file URL
@@ -254,34 +364,27 @@ if st.button("🚀 Analyze", type="primary", disabled=not can_analyze):
 
         with open(os.path.join(output_folder, "summary.html"), "w", encoding="utf-8") as f:
             f.write(metadata + summary_html)
-
-        # Display download and results
-        with open(os.path.join(output_folder, "analysis.xlsx"), "rb") as f:
-            st.download_button("📥 Download Excel Report", f, file_name="audit_result.xlsx")
-
-        with open(os.path.join(output_folder, "summary.pdf"), "rb") as f:
-            st.download_button(
-                label="📥 Download PDF Summary",
-                data=f,
-                file_name="summary.pdf",
-                mime="application/pdf"
-            )
-
+            
         st.success("✅ Analysis Complete!")
 
-# --- Show Existing Output Files ---
-st.sidebar.subheader("📁 Output Files")
+
+st.markdown(
+    "<h3 style='color: #42eff5;'>📁 Download Output Files</h3>",
+    unsafe_allow_html=True
+)
+
+output_folder = "./outputs"  # replace with your actual path
 output_files = os.listdir(output_folder)
+
 if output_files:
     for file_name in output_files:
         file_path = os.path.join(output_folder, file_name)
         with open(file_path, "rb") as file:
-            st.sidebar.download_button(
+            st.download_button(
                 label=f"📄 Download {file_name}",
                 data=file,
                 file_name=file_name,
                 mime="application/octet-stream"
             )
-        
 else:
-    st.sidebar.info("No output files found yet.")
+    st.info("No output files found yet.")
